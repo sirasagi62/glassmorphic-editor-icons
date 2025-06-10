@@ -14,3 +14,6 @@ These icons were edited using Inkscape, and their original files are saved in In
 ## License
 This entire project is provided under the GNU GPL v3 License. For details, please refer to `./NOTICE.txt`. For the full license text, see `./LICENSE`.
 Furthermore, although the Vim icons are derived from a GPL v3 icon, they may indirectly be considered derivatives of Vim. Therefore, a Vim License file has been attached at `./vim-license.txt` based on Vim's license.
+
+## Copyright
+See `./NOTICE.txt`.

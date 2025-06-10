@@ -15,3 +15,6 @@ Glassmorphic Editor Iconsはグラスモーフィズムに基づくVimとEmacs�
 ## License
 本プロジェクトは全てGNU GPL v3 Licenseの下に提供されます。詳細は`./NOTICE.txt`を確認してください。完全なライセンステキストについては、`./LICENSE`を参照してください。
 また、vimのアイコンについてはGPL v3のアイコンから派生しているものの、間接的にvimの派生物に該当する可能性があることから、vimのライセンスに基づき`./vim-license.txt`にVim Licenseファイルを添付しています。
+
+## 著作権
+`./NOTICE.txt`を参照してください。
