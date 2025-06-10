@@ -3,7 +3,9 @@
 <div align="center">
 <img src="./assets/editor-glassmorphic.png" width="400" />
 </div>
+
 Glassmorphic Editor Iconsはグラスモーフィズムに基づくVimとEmacsのアイコンアセットです。
+
 - ライトテーマとダークテーマ
 - Vim,Emacs
 - 角丸ありと角丸なし

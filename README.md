@@ -3,8 +3,10 @@
 <div align="center">
 <img src="./assets/editor-glassmorphic.png" width="400" />
 </div>
+
 Glassmorphic Editor Icons is a set of Vim and Emacs icon assets based on glassmorphism.
 It includes 8 icon patterns:
+
 - Light and dark themes
 - Vim and Emacs
 - With rounded and unrounded corners
