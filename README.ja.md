@@ -1,7 +1,7 @@
 ## Glassmorphic Editor Icons
 
 <div align="center">
-<img src="./assets/editor-glassmorphic.png" width="400" />
+<img src="./assets/example.png" width="400" />
 </div>
 
 Glassmorphic Editor Iconsはグラスモーフィズムに基づくVimとEmacsのアイコンアセットです。
